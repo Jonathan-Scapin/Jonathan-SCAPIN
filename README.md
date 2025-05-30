@@ -1,11 +1,16 @@
 ### Hello World 👋
-I am a web developer from France 
-- 🔭 I’m currently working on multiple WordPress project and ecoconception Web
-- 🌱 I’m currently learning to use ACF ans Tailwind CSS for build websites with Pilo'Press
-- 📫 How to reach me: see bottom
+
+I'm a web developer based in France, specializing in building performant, maintainable, and responsible WordPress websites.
+
+- 🔧 I mainly work with **PHP** on custom **WordPress** projects.
+- 🎯 I use **Advanced Custom Fields (ACF)** daily to build clean and flexible admin interfaces.
+- 🌱 I'm currently developing a **custom WordPress theme** based on ACF components, following **eco-conception best practices**.
+- 🖥️ I'm leveling up my skills in **Linux** and **server infrastructure**, deploying sites on **custom VPS** for better control and security.
+- 💬 Always happy to discuss performance, accessibility, and sustainable web design.
 
 <br>
 
-## Connect with me
+## 🌐 Connect with me
 
-[![image-text](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-scapin) [![image-text](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jswebvienne) [![image-text](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jonathan_scapin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-scapin)  
+[![X](https://img.shields.io/badge/X-%23181717.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jonathan_scapin)
