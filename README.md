@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello 👋
 
 I'm a web developer based in France, specializing in building performant, maintainable, and responsible WordPress websites.
 
