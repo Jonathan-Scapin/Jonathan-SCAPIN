@@ -12,5 +12,4 @@ I'm a web developer based in France, specializing in building performant, mainta
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-scapin)  
-[![X](https://img.shields.io/badge/X-%23181717.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jonathan_scapin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-scapin)  [![X](https://img.shields.io/badge/X-%23181717.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jonathan_scapin)
