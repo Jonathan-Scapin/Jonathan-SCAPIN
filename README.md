@@ -5,7 +5,7 @@
 **WordPress & PHP developer · Linux VPS tinkerer · builder of small, honest tools**
 
 <a href="https://jonathanscapin.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=21759B&center=true&vCenter=true&width=560&lines=Custom+WordPress+themes+built+with+ACF;Fast%2C+lean+and+eco-designed+websites;Self-hosted+on+my+own+Linux+VPS;Side+projects+in+TypeScript+%26+Rust" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=21759B&center=true&vCenter=true&width=560&lines=Block+themes+with+Gutenberg+%26+FSE;Fast%2C+lean+and+eco-designed+websites;Self-hosted+on+my+own+Linux+VPS;Side+projects+in+TypeScript+%26+Rust" alt="What I do" />
 </a>
 
 📍 Vienne, Isère — France &nbsp;·&nbsp; 🌐 [jonathanscapin.com](https://jonathanscapin.com/)
@@ -16,7 +16,7 @@
 
 ### 🧭 What I do
 
-- 🧩 **Custom WordPress** — themes built from reusable **ACF** blocks, clean admin UX for clients, no page-builder bloat.
+- 🧩 **Custom WordPress** — **block themes** built with **Gutenberg** and **Full Site Editing**, custom blocks and patterns, clean editing UX for clients, no page-builder bloat.
 - ⚡ **Performance & sobriety** — lightweight pages, few requests, eco-design as a default rather than an option.
 - 🔐 **Security** — hardened logins, MFA, sensible defaults, sites I can actually maintain.
 - 🖥️ **Infrastructure** — I host and run my own **Linux VPS**: Docker, Nginx, backups, updates, monitoring.
